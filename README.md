@@ -8,9 +8,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 🌐 Live Website
 
-Replace this with your GitHub Pages link after publishing:
-
-https://yourusername.github.io/portfolio-website/
+https://dayogeorge69-collab.github.io/Portfolio-website/
 
 ---
 
